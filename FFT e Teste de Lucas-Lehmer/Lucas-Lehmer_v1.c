@@ -1,5 +1,5 @@
 // Implementacao do teste de primalidade de Lucas-Lehmer
-// compilar junto com biblioteca_Zp.s e aux_Lucas_Lehmer.s
+// compilar junto com biblioteca_Zp.s e aux_Lucas-Lehmer.s
 
 #include <stdio.h>
 #include <stdlib.h>
