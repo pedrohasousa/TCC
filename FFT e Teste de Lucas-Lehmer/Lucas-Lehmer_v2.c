@@ -1,6 +1,6 @@
 // Implementacao melhorada do teste de primalidade de Lucas-Lehmer
 // Eleva números ao quadrado mod Mp usando apenas p bits
-// Compilar com biblioteca_Z_p.s e aux_Lucas_Lehmer.s
+// Compilar com biblioteca_Z_p.s e aux_Lucas-Lehmer.s
 
 #include <stdio.h>
 #include <stdlib.h>
