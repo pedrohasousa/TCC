@@ -4,4 +4,4 @@
   - **Título**:
   - **Orientador**: Prof. Dr. Evilson da Silva Vieira
 
-  Os arquivos aqui presentes são os códigos escritos e utilizados no projeto.
+  Os arquivos presentes são os códigos escritos e utilizados no projeto.
